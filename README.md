@@ -39,7 +39,7 @@ A generated contour plot saved as optimizer_trajectories.png.
 ## Project Structure
 ─ optimizer_benchmark.py       # Main benchmark script
 
-─ ![Optimization Trajectories](optimizer_trajectories.png) 
+─ optimizer_trajectories.png   ![Optimization Trajectories](optimizer_trajectories.png) 
 
                                # Optimization trajectory plot
                                
